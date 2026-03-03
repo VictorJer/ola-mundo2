@@ -5,5 +5,6 @@ Console.WriteLine("oi novamente");
 Console.WriteLine("------------------------");
 
 Console.ReadLine();
+Console.WriteLine("oi");
 
 Console.WriteLine("oi");
